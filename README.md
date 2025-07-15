@@ -1,1 +1,1 @@
-# Sales-data-analysis-and-dashboard.
+# Sales-data-analysis-and-dashboard
